@@ -3,8 +3,8 @@
 dlwebpage.py
 
 This script: 
-- download all the HTML of a webpage.
-- it asks for the url you want to download.
-- it creates a WebPageDownload.html file of the download.
+- downloads all the HTML of a webpage.
+- asks for the url you want to download.
+- creates a WebPageDownload.html file of the download.
 
 Thanks -- @chrissiepadilla
