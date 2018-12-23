@@ -1,5 +1,5 @@
 # python-scripts
 
-Collection of python scripts that have helped me through various cybersecurity related tasks.
+Collection of python scripts that help me with various cybersecurity related tasks.
 
-Thanks -- @chrissiepadilla
+-- @chrissiepadilla
